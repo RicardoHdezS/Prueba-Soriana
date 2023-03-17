@@ -1,0 +1,314 @@
+{
+   "department":"Despensa",
+   "url":"https://www.soriana.com/supermercado.html",
+   "categories":[
+      {
+         "name":"Cremas, sopas y purés",
+         "url":"https://soriana.com/despensa/cremas-sopas-y-pures/",
+         "subcategories":[
+            {
+               "name":"Cremas",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/cremas/"
+            },
+            {
+               "name":"Pastas",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/pastas/"
+            },
+            {
+               "name":"Sopas instantáneas",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/sopas-instantaneas/"
+            },
+            {
+               "name":"Puré de tomate",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/pure-de-tomate/"
+            },
+            {
+               "name":"Puré instantaneo",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/pure-instantaneo/"
+            },
+            {
+               "name":"Sopa de pasta",
+               "url":"https://soriana.com/despensa/cremas-sopas-y-pures/sopa-de-pasta/"
+            }
+         ]
+      },
+      {
+         "name":"Azúcares y endulzantes",
+         "url":"https://soriana.com/despensa/azucares-y-endulzantes/",
+         "subcategories":[
+            {
+               "name":"Azúcar",
+               "url":"https://soriana.com/despensa/azucares-y-endulzantes/azucar/"
+            },
+            {
+               "name":"Sustituto de azúcar",
+               "url":"https://soriana.com/despensa/azucares-y-endulzantes/sustituto-de-azucar/"
+            }
+         ]
+      },
+      {
+         "name":"Aderezos, salsas y vinagres",
+         "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/",
+         "subcategories":[
+            {
+               "name":"Mayonesa",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/mayonesa/"
+            },
+            {
+               "name":"Mostaza",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/mostaza/"
+            },
+            {
+               "name":"Catsup",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/catsup/"
+            },
+            {
+               "name":"Vinagre",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/vinagre/"
+            },
+            {
+               "name":"Aderezos y vinagretas",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/aderezos-y-vinagretas/"
+            },
+            {
+               "name":"Salsa botanera",
+               "url":"https://soriana.com/despensa/aderezos-salsas-y-vinagres/salsa-botanera/"
+            }
+         ]
+      },
+      {
+         "name":"Alimentos enlatados",
+         "url":"https://soriana.com/despensa/alimentos-enlatados/",
+         "subcategories":[
+            {
+               "name":"Vegetales",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/vegetales/"
+            },
+            {
+               "name":"Chiles",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/chiles/"
+            },
+            {
+               "name":"Frutas en almíbar",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/frutas-en-almibar/"
+            },
+            {
+               "name":"Pescados y mariscos",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/pescados-y-mariscos/"
+            },
+            {
+               "name":"Ates",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/ates/"
+            },
+            {
+               "name":"Carnes enlatadas",
+               "url":"https://soriana.com/despensa/alimentos-enlatados/carnes-enlatadas/"
+            }
+         ]
+      },
+      {
+         "name":"Aceites y mantecas",
+         "url":"https://soriana.com/despensa/aceites-y-mantecas/",
+         "subcategories":[
+            {
+               "name":"Aceite de maíz",
+               "url":"https://soriana.com/despensa/aceites-y-mantecas/aceite-de-maiz/"
+            },
+            {
+               "name":"Aceite de oliva",
+               "url":"https://soriana.com/despensa/aceites-y-mantecas/aceite-de-oliva/"
+            },
+            {
+               "name":"Manteca",
+               "url":"https://soriana.com/despensa/aceites-y-mantecas/manteca/"
+            },
+            {
+               "name":"Aceite vegetal y semillas",
+               "url":"https://soriana.com/despensa/aceites-y-mantecas/aceite-vegetal-y-semillas/"
+            }
+         ]
+      },
+      {
+         "name":"Cereales, barras y avenas",
+         "url":"https://soriana.com/despensa/cereales-barras-y-avenas/",
+         "subcategories":[
+            {
+               "name":"Cereales dulces",
+               "url":"https://soriana.com/despensa/cereales-barras-y-avenas/cereales-dulces/"
+            },
+            {
+               "name":"Cereales light y con fibra",
+               "url":"https://soriana.com/despensa/cereales-barras-y-avenas/cereales-light-y-con-fibra/"
+            },
+            {
+               "name":"Barras de cereal",
+               "url":"https://soriana.com/despensa/cereales-barras-y-avenas/barras-de-cereal/"
+            },
+            {
+               "name":"Avena y granola",
+               "url":"https://soriana.com/despensa/cereales-barras-y-avenas/avena-y-granola/"
+            }
+         ]
+      },
+      {
+         "name":"Mermeladas y miel",
+         "url":"https://soriana.com/despensa/mermeladas-y-miel/",
+         "subcategories":[
+            {
+               "name":"Mermeladas",
+               "url":"https://soriana.com/despensa/mermeladas-y-miel/mermeladas/"
+            },
+            {
+               "name":"Miel",
+               "url":"https://soriana.com/despensa/mermeladas-y-miel/miel/"
+            },
+            {
+               "name":"Cajetas",
+               "url":"https://soriana.com/despensa/mermeladas-y-miel/cajetas/"
+            },
+            {
+               "name":"Crema de cacahuate y avellana",
+               "url":"https://soriana.com/despensa/mermeladas-y-miel/crema-de-cacahuate-y-avellana/"
+            }
+         ]
+      },
+      {
+         "name":"Café, té y chocolate",
+         "url":"https://soriana.com/despensa/cafe-te-y-chocolate/",
+         "subcategories":[
+            {
+               "name":"Café instantáneo",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/cafe-instantaneo/"
+            },
+            {
+               "name":"Café molido y en grano",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/cafe-molido-y-en-grano/"
+            },
+            {
+               "name":"Capsulas de café",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/capsulas-de-cafe/"
+            },
+            {
+               "name":"Chocolate y saborizantes en polvo",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/chocolate-y-saborizantes-en-polvo/"
+            },
+            {
+               "name":"Té de frutas",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/te-de-frutas/"
+            },
+            {
+               "name":"Té de hierbas",
+               "url":"https://soriana.com/despensa/cafe-te-y-chocolate/te-de-hierbas/"
+            }
+         ]
+      },
+      {
+         "name":"Panes y pastelillos",
+         "url":"https://soriana.com/despensa/panes-y-pastelillos/",
+         "subcategories":[
+            {
+               "name":"Pan dulce y pastelillos",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/pan-dulce-y-pastelillos/"
+            },
+            {
+               "name":"Bollos y hot dog",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/bollos-y-hot-dog/"
+            },
+            {
+               "name":"Pan tostado",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/pan-tostado/"
+            },
+            {
+               "name":"Pan de caja",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/pan-de-caja/"
+            },
+            {
+               "name":"Tortillas de harina",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/tortillas-de-harina/"
+            },
+            {
+               "name":"Tortillas de maíz",
+               "url":"https://soriana.com/despensa/panes-y-pastelillos/tortillas-de-maiz/"
+            }
+         ]
+      },
+      {
+         "name":"Arroz, frijol y semillas",
+         "url":"https://soriana.com/despensa/arroz-frijol-y-semillas/",
+         "subcategories":[
+            {
+               "name":"Arroz",
+               "url":"https://soriana.com/despensa/arroz-frijol-y-semillas/arroz/"
+            },
+            {
+               "name":"Frijol",
+               "url":"https://soriana.com/despensa/arroz-frijol-y-semillas/frijol/"
+            },
+            {
+               "name":"Leguminosas",
+               "url":"https://soriana.com/despensa/arroz-frijol-y-semillas/leguminosas/"
+            },
+            {
+               "name":"Semillas",
+               "url":"https://soriana.com/despensa/arroz-frijol-y-semillas/semillas/"
+            }
+         ]
+      },
+      {
+         "name":"Especias y sazonadores",
+         "url":"https://soriana.com/despensa/especias-y-sazonadores/",
+         "subcategories":[
+            {
+               "name":"Condimentos y especias",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/condimentos-y-especias/"
+            },
+            {
+               "name":"Consomés",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/consomes/"
+            },
+            {
+               "name":"Mole y adobo",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/mole-y-adobo/"
+            },
+            {
+               "name":"Sazonadores",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/sazonadores/"
+            },
+            {
+               "name":"Chile en polvo",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/chile-en-polvo/"
+            },
+            {
+               "name":"Sal de mesa",
+               "url":"https://soriana.com/despensa/especias-y-sazonadores/sal-de-mesa/"
+            }
+         ]
+      },
+      {
+         "name":"Harinas y repostería",
+         "url":"https://soriana.com/despensa/harinas-y-reposteria/",
+         "subcategories":[
+            {
+               "name":"Harinas",
+               "url":"https://soriana.com/despensa/harinas-y-reposteria/harinas/"
+            },
+            {
+               "name":"Harina para hot cakes",
+               "url":"https://soriana.com/despensa/harinas-y-reposteria/harina-para-hot-cakes/"
+            },
+            {
+               "name":"Mezclas para pastel y galletas",
+               "url":"https://soriana.com/despensa/harinas-y-reposteria/mezclas-para-pastel-y-galletas/"
+            },
+            {
+               "name":"Betún y decoración",
+               "url":"https://soriana.com/despensa/harinas-y-reposteria/betun-y-decoracion/"
+            },
+            {
+               "name":"Saborizantes",
+               "url":"https://soriana.com/despensa/harinas-y-reposteria/saborizantes/"
+            }
+         ]
+      }
+   ]
+}
